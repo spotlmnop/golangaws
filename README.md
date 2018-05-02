@@ -1,2 +1,2 @@
-# docker-maven-awscli
-Docker image with Java, maven and AWS CLI
+# docker-golang-awscli
+Docker image with Golang, maven and AWS CLI
